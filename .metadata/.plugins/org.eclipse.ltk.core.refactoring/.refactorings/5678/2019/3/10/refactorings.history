@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;JTVGD.java&apos; to &apos;5678/src/main/java/JTVLogin&apos;&#x0A;- Original project: &apos;5678&apos;&#x0A;- Destination element: &apos;5678/src/main/java/JTVLogin&apos;&#x0A;- Original element: &apos;com.vinod.JTVGD.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java&lt;JTVLogin" element1="/src\/main\/java&lt;com.vinod{JTVGD.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1551938733428" units="1" version="1.0"/>
+</session>

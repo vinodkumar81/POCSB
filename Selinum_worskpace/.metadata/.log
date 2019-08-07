@@ -1,0 +1,22 @@
+!SESSION 2018-09-04 14:55:26.237 -----------------------------------------------
+eclipse.buildId=4.7.1.M20171009-0410
+java.version=9
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/test/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -data /Users/test/eclipse-workspace/Selinum_worskpace -product org.eclipse.epp.package.java.product -keyring /Users/test/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-09-04 14:55:34.139
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-04 14:59:40.773
+!MESSAGE Invalid ZIP archive: /Users/test/.m2/repository/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-04 14:59:51.513
+!MESSAGE Invalid ZIP archive: /Users/test/.m2/repository/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.jar
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-09-04 14:59:57.085
+!MESSAGE The Java indexing could not index /Users/test/.m2/repository/org/ow2/asm/asm/6.0_ALPHA/asm-6.0_ALPHA.jar|module-info.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-04 15:00:56.268
+!MESSAGE Invalid ZIP archive: /Users/test/.m2/repository/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.jar
